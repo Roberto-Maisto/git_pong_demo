@@ -6,3 +6,5 @@ I need to master this so I can be a good team member.
 Robert was here. Adding some detailed instructions.
 
 Anastasia thinks that this demo is very simple yet really important!
+
+Don't forget to add before committing.
